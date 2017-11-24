@@ -4,7 +4,7 @@ phase : 1
 computeUserInf : 0
 
 graphFile : sample_dataset/graph.txt
-actionsFile : sample_dataset/actionslog.txt
+actionsFile : sample_dataset/actionlog.txt
 
 outdir : sample_dataset/training/scan1
 maxTuples : 0
