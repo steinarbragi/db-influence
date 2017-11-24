@@ -3,7 +3,7 @@
 phase : 14
 
 graphFile : sample_dataset/training/scan2/edgesCounts.txt
-actionsFile : sample_dataset/actionslog.txt
+actionsFile : sample_dataset/actionlog.txt
 userInflFile : sample_dataset/training/scan2/usersCounts.txt
 seedFileName : sample_dataset/maxinf_CD/PCCov_0_0.001.txt
 
